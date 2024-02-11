@@ -1,7 +1,7 @@
 Blockly.defineBlocksWithJsonArray([
 {
   "type": "dht_read",
-  "message0": "%1 pin %2 read %2",
+  "message0": "%1 pin %2 read %3",
   "args0": [
     {
       "type": "field_dropdown",
